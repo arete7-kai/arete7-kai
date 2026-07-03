@@ -61,9 +61,9 @@ Open to **Software Engineering** and **AI/ML Engineering** roles.
 | **[TikTok Shop Sales Agent](#)** | LangGraph multi-agent backend routing inventory, product Q&A, and recommendation intents; hybrid Neo4j Text2Cypher + GraphRAG retrieval. Cut end-to-end latency 4.8s → 2.1s. Source published with the original client graph data replaced by a de-identified synthetic dataset. | `LangGraph` `FastAPI` `Neo4j` `GraphRAG` | Code |
 | **[Enterprise Travel Assistant](#)** | AgentScope Plan-and-Execute multi-agent system with priority-based parallel execution and a Milvus RAG layer over corporate travel policies. | `AgentScope` `Milvus` `RAG` `asyncio` | Code |
 | **[Event-Camera Object Detection](#)** | Real-time detection on DAVIS346 event-camera data; benchmarked YOLOv8 vs. RVT-Base on a custom driving dataset. | `PyTorch` `YOLOv8` `Computer Vision` | Code |
-| **[K-12 Safety-Alert AI Backend](#)** | Built for an ed-tech client: AWS Bedrock + Claude classification pipeline for a mental-health platform; RAG-grounded responses, production guardrails, serverless alert routing. | `AWS Bedrock` `Lambda` `DynamoDB` | Client work |
-| **[Real-Time ASR Inference Pipeline](#)** | Built for a video-conferencing company: sub-200ms speech inference; GPU batching + Redis caching for 1,000+ concurrent sessions. | `PyTorch` `FunASR` `Redis` `Kafka` | Client work |
-| **[Vibes — Serverless Platform](#)** | Practicum for an industry client: security-hardened serverless backend for a student engagement platform (Lambda, DynamoDB, gamification). | `AWS` `Serverless` `Security` | Client work |
+| **[K-12 Safety-Alert AI Backend](#)** |  AWS Bedrock + Claude classification pipeline for a mental-health platform; RAG-grounded responses, production guardrails, serverless alert routing. | `AWS Bedrock` `Lambda` `DynamoDB` | Professional  |
+| **[Real-Time ASR Inference Pipeline](#)** |  sub-200ms speech inference; GPU batching + Redis caching for 1,000+ concurrent sessions. | `PyTorch` `FunASR` `Redis` `Kafka` | Professional  |
+| **[Vibes — Serverless Platform](#)** |  security-hardened serverless backend for a student engagement platform (AWS, Lambda, DynamoDB) | `AWS` `Serverless` `Security` | Professional  |
 
 ---
 
