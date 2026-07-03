@@ -8,7 +8,7 @@ Backend systems and ML-powered products — from serverless infrastructure to mu
 
 M.S. Computer Science @ Northeastern University
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kai.sdeapply@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:liu.fengka@northeastern.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fengkai-liu)
 
 </div>
@@ -53,17 +53,17 @@ Open to **Software Engineering** and **AI/ML Engineering** roles.
 
 ### Featured Projects
 
-**Code** = full source available · **WIP** = in active development · **Case study** = architecture and contribution write-up for work I can't open-source.
+**Code** = full source available · **WIP** = in active development · **Client work** = built for a company/client under confidentiality — description only, no source.
 
 | Project | What it does | Stack | |
 |---|---|---|:--:|
 | **[FlowGuard](#)** | Web app + Chrome extension that helps AI-heavy users recover working context across long ChatGPT/Claude sessions — resume any project in 30s via structured Resume Cards. Privacy-first: captures progress updates, not raw conversation text. | `Next.js` `TypeScript` `Chrome MV3` `Anthropic SDK` `Drizzle` | WIP |
-| **[TikTok Shop Sales Agent](#)** | LangGraph multi-agent backend routing inventory, product Q&A, and recommendation intents; hybrid Neo4j Text2Cypher + GraphRAG retrieval. Cut end-to-end latency 4.8s → 2.1s. | `LangGraph` `FastAPI` `Neo4j` `GraphRAG` | Code |
+| **[TikTok Shop Sales Agent](#)** | LangGraph multi-agent backend routing inventory, product Q&A, and recommendation intents; hybrid Neo4j Text2Cypher + GraphRAG retrieval. Cut end-to-end latency 4.8s → 2.1s. Source published with the original client graph data replaced by a de-identified synthetic dataset. | `LangGraph` `FastAPI` `Neo4j` `GraphRAG` | Code |
 | **[Enterprise Travel Assistant](#)** | AgentScope Plan-and-Execute multi-agent system with priority-based parallel execution and a Milvus RAG layer over corporate travel policies. | `AgentScope` `Milvus` `RAG` `asyncio` | Code |
 | **[Event-Camera Object Detection](#)** | Real-time detection on DAVIS346 event-camera data; benchmarked YOLOv8 vs. RVT-Base on a custom driving dataset. | `PyTorch` `YOLOv8` `Computer Vision` | Code |
-| **[K-12 Safety-Alert AI Backend](#)** | Case study: AWS Bedrock + Claude classification pipeline for a mental-health platform; RAG-grounded responses, production guardrails, serverless alert routing. | `AWS Bedrock` `Lambda` `DynamoDB` | Case study |
-| **[Real-Time ASR Inference Pipeline](#)** | Case study: sub-200ms speech inference for a video-conferencing platform; GPU batching + Redis caching for 1,000+ concurrent sessions. | `PyTorch` `FunASR` `Redis` `Kafka` | Case study |
-| **[Vibes — Serverless Platform](#)** | Case study: security-hardened serverless backend for a student engagement platform (Lambda, DynamoDB, gamification). | `AWS` `Serverless` `Security` | Case study |
+| **[K-12 Safety-Alert AI Backend](#)** | Built for an ed-tech client: AWS Bedrock + Claude classification pipeline for a mental-health platform; RAG-grounded responses, production guardrails, serverless alert routing. | `AWS Bedrock` `Lambda` `DynamoDB` | Client work |
+| **[Real-Time ASR Inference Pipeline](#)** | Built for a video-conferencing company: sub-200ms speech inference; GPU batching + Redis caching for 1,000+ concurrent sessions. | `PyTorch` `FunASR` `Redis` `Kafka` | Client work |
+| **[Vibes — Serverless Platform](#)** | Practicum for an industry client: security-hardened serverless backend for a student engagement platform (Lambda, DynamoDB, gamification). | `AWS` `Serverless` `Security` | Client work |
 
 ---
 
